@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36605
     wikipedia: http://sv.wikipedia.org/wiki/Georg_Stjernstedt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33791#R-ttigheter-och-Skyldigheter-gentemot-StatskyrkanEn-hj-lpreda-f-r-svenska-medborgare
 gutenberg_issued: '2010-09-21'
 gutenberg_type: Text
 identifiers:
